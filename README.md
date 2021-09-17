@@ -1,6 +1,9 @@
-# Assessment 3: Designing for Apps
-## Create a wireframe of the app and showcase a transition journey of how the user will interact with the app. Thereafter, must create a theme on Android studio and submit the following:
+# Assessment 4: Functionality and Intelligence
+## Create a functional app that invokes hardware  features of the  device. Submission of the exercise must entail:
 
-* Wireframe of the app in PDF format
-* Styled app (APK) with a theme that’s consistent throughout the app 
-* Code commit to Github
+* At least 3 APIs usage to invoke hardware features of the device implemented
+* Invoke the a share intent to allow user to share app content to different mediums
+* Implement an advert of choice into into your app
+* An app APK file
+* Github repo link
+~~~~~~~~~~~~~~~
