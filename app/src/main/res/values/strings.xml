@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Work Local</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tlangelani Hlungwani</string>
+    <string name="nav_header_subtitle">felender7@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Resume</string>
+    <string name="menu_slideshow">References </string>
+    <string name="menu_documents">Documents</string>
+    <string name="menu_find_jobs">Find Jobs</string>
+    <string name="menu_applied_jobs"> Applied Jobs </string>
+    <string name="menu_summery"> Summary</string>
+    <string name="welcome_to_work_job_placement">Welcome to @work job placement</string>
+
+    <string-array name="id_passport">
+        <item>ID</item>
+        <item>Passport</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="ethnicity">
+        <item >Black</item>
+        <item >Coloured</item>
+        <item >Indian</item>
+        <item >White</item>
+        <item >Other</item>
+    </string-array>
+
+    <string-array name="disability">
+        <item>Not Disable</item>
+        <item>Disable</item>
+    </string-array>
+
+    <string-array name="job_function">
+        <item>Admin, Office Support &amp; Services</item>
+        <item>Agriculture, Forestry, Environmental &amp; Fishing</item>
+        <item>Banking, Finance, Insurance &amp; Stockbroking</item>
+        <item>Chemical , Petrochemical, Oil &amp; Gas</item>
+        <item>Construction, Design, Architecture &amp; Property</item>
+        <item>Education &amp; Training</item>
+        <item>FMCG, Retail, Wholesale &amp; Supply Chain</item>
+        <item>General Management</item>
+        <item>Government &amp; NGO</item>
+        <item>Health, Fitness, Medical &amp; Optometry</item>
+        <item>Hospitality, Hotel, Catering, Tourism &amp; Travel</item>
+        <item>Human Resources &amp; Recruitment</item>
+        <item>IT &amp; Telecommunications</item>
+        <item>Legal</item>
+        <item>Matriculants/Graduate/No Experience</item>
+        <item>Media, Advertising, PR, Publishing &amp; Marketing</item>
+        <item>Mining</item>
+        <item>R&amp;D, Science &amp; Scientific Research</item>
+        <item>Sales &amp; Purchasing</item>
+        <item>SHEQ &amp; Security Work</item>
+        <item>Textile/Clothing</item>
+        <item>Transport, Logistics &amp; Freight</item>
+    </string-array>
+
+    <string-array name="job_industry">
+        <item>[All]</item>
+        <item >Advertising, Communication &amp; PR</item>
+        <item >Agriculture, Forestry &amp; Fishing</item>
+        <item value="Armed Forces">Armed Forces</item>
+        <item value="Art, Culture, Entertainment &amp; Sport">Art, Culture, Entertainment &amp; Sport</item>
+        <item value="Auditing/Accounting">Auditing/Accounting</item>
+        <item value="Automotive Sector">Automotive Sector</item>
+        <item value="Aviation &amp; Aerospace">Aviation &amp; Aerospace</item>
+        <item value="Banking">Banking</item>
+        <item value="Building &amp; Construction">Building &amp; Construction</item>
+        <item value="Call Centre Industry">Call Centre Industry</item>
+        <item value="Chemical, Petrochemical, Oil &amp; Gas">Chemical, Petrochemical, Oil &amp; Gas</item>
+        <item value="Conservation &amp; Environment">Conservation &amp; Environment</item>
+        <item value="Consulting">Consulting</item>
+        <item value="Distribution, Transport &amp; Logistics">Distribution, Transport &amp; Logistics</item>
+        <item value="Education &amp; Training">Education &amp; Training</item>
+        <item value="Electricity, Energy &amp; Water Supply">Electricity, Energy &amp; Water Supply</item>
+        <item value="Engineering">Engineering</item>
+        <item value="Financial Services">Financial Services</item>
+        <item value="Fishing">Fishing</item>
+        <item value="FMCG &amp; Supply Management">FMCG &amp; Supply Management</item>
+        <item value="Food &amp; Beverages">Food &amp; Beverages</item>
+        <item value="Freight, Import &amp; Export">Freight, Import &amp; Export</item>
+        <item value="Government">Government</item>
+        <item value="Handcraft &amp; Furniture">Handcraft &amp; Furniture</item>
+        <item value="Health &amp; Fitness">Health &amp; Fitness</item>
+        <item value="Hospitality &amp; Catering">Hospitality &amp; Catering</item>
+        <item value="HR Services, Recruitment &amp; Selection">HR Services, Recruitment &amp; Selection</item>
+        <item value="Insurances">Insurances</item>
+        <item value="IT &amp; Internet">IT &amp; Internet</item>
+        <item value="Legal">Legal</item>
+        <item value="Manufacturing">Manufacturing</item>
+        <item value="Media, Audiovisual &amp; Publishing">Media, Audiovisual &amp; Publishing</item>
+        <item value="Medical Technology">Medical Technology</item>
+        <item value="Medical, Health &amp; Social Care">Medical, Health &amp; Social Care</item>
+        <item value="Mining &amp; Quarrying">Mining &amp; Quarrying</item>
+        <item value="Non-Profit &amp; Voluntary Sector">Non-Profit &amp; Voluntary Sector</item>
+        <item value="Office Automation">Office Automation</item>
+        <item value="Other Sectors &amp; Industries">Other Sectors &amp; Industries</item>
+        <item value="Pharmaceutical Sector">Pharmaceutical Sector</item>
+        <item value="Property &amp; Real Estate">Property &amp; Real Estate</item>
+        <item value="Public Administration">Public Administration</item>
+        <item value="Public Administration &amp; Defence">Public Administration &amp; Defence</item>
+        <item value="Public Services">Public Services</item>
+        <item value="Publishing, Printing &amp; Reproduction">Publishing, Printing &amp; Reproduction</item>
+        <item value="Recreational, Cultural &amp; Sporting Activities">Recreational, Cultural &amp; Sporting Activities</item>
+        <item value="Scientific, Research &amp; Development">Scientific, Research &amp; Development</item>
+        <item value="Steel Industry">Steel Industry</item>
+        <item value="Telecommunication Services">Telecommunication Services</item>
+        <item value="Textiles, Clothing, Leather &amp; Fashion">Textiles, Clothing, Leather &amp; Fashion</item>
+        <item value="Travel &amp; Tourism">Travel &amp; Tourism</item>
+        <item value="Wholesale &amp; Retail Trade">Wholesale &amp; Retail Trade</item>
+    </string-array>
+
+
+    <string-array name="salary_rage">
+        <item value="0 - 50K Annually R">0 - 50K Annually R</item>
+        <item value="50 - 100K Annually R">50 - 100K Annually R</item>
+        <item value="100 - 150K Annually R">100 - 150K Annually R</item>
+        <item value="150 - 200K Annually R">150 - 200K Annually R</item>
+        <item value="200 - 250K Annually R">200 - 250K Annually R</item>
+        <item value="250 - 300K Annually R">250 - 300K Annually R</item>
+        <item value="300 - 350K Annually R">300 - 350K Annually R</item>
+        <item value="350 - 400K Annually R">350 - 400K Annually R</item>
+        <item value="400 - 450K Annually R">400 - 450K Annually R</item>
+        <item value="450 - 500K Annually R">450 - 500K Annually R</item>
+        <item value="500 - 600k Annually R">500 - 600k Annually R</item>
+        <item value="600 - 700k Annually R">600 - 700k Annually R</item>
+        <item value="700 - 800k Annually R">700 - 800k Annually R</item>
+        <item value="800 - 900k Annually R">800 - 900k Annually R</item>
+        <item value="900K - 1 Million Annually R">900K - 1 Million Annually R</item>
+        <item value="1 - 1.25 Million Annually R">1 - 1.25 Million Annually R</item>
+        <item value="1.25 - 1.5 Million Annually R">1.25 - 1.5 Million Annually R</item>
+        <item value="1.5 - 1.75 Million Annually R">1.5 - 1.75 Million Annually R</item>
+        <item value="1.75 - 2 Million Annually R">1.75 - 2 Million Annually R</item>
+        <item value="2 Million+ Annually R">2 Million+ Annually R</item>
+    </string-array>
+
+    <string-array name="availability">
+        <item value="Immediate">Immediate</item>
+        <item value="7 days">7 days</item>
+        <item value="2 weeks">2 weeks</item>
+        <item value="1 month">1 month</item>
+        <item value="2 months">2 months</item>
+        <item value="More than 2 months">More than 2 months</item>
+    </string-array>
+
+    <string-array name="education">
+        <item>Less than high-school</item>
+        <item>Matric</item>
+        <item>Higher Certificate</item>
+        <item>Diploma</item>
+        <item>Degree</item>
+    </string-array>
+
+</resources>
